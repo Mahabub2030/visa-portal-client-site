@@ -79,7 +79,7 @@ const MyAddedVisa = () => {
   };
 
   return (
-    <div className="min-h-screen bg-gray-100 p-6 container mx-auto">
+    <div className="min-h-screen bg-gray-100  container mx-auto">
       <Navbar></Navbar>
       <h2 className="text-3xl font-bold text-center mb-6">My Added Visas</h2>
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
